@@ -1,0 +1,106 @@
+.title-image {
+    width: 80%;
+    align-content: center;
+    border: 2px solid white;
+}
+
+#about-me {
+    color: white;
+    background-image: url(images/audi_R8.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover ;
+    padding: 15%;
+    
+}
+
+.aboutme {
+    text-align: left;
+    padding: 50px;
+}
+
+.col-lg-6 {
+    align-content: center;
+}
+
+#skills {
+    color: white;
+    text-align: center;
+    padding:1%;
+    background-color: #393e46;
+    
+}
+
+#skills h3{
+    border-bottom: white;
+}
+
+#features {
+    padding: 5% 0 5% 0;
+    text-align: center;
+    color: rgb(88, 175, 164);
+    background-color: black;
+}
+
+
+.fas {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.progress {
+    margin: 0px 50px 0px 0px;
+    
+}
+
+.pull-left{
+    float:left;
+}
+
+.media-name{
+    margin:0px;
+}
+
+.bar-sec {
+    padding-top: 30px;
+    text-align: left;
+}
+
+#portfolio {
+    color: white;
+    text-align: center;
+    padding:1%;
+    background-color: #393e46;
+}
+
+.folio-dark {
+    padding: 7%;
+    background-color: black;
+}
+.folio-light {
+    padding: 7%;
+    background-color: grey;
+}
+
+.car, .house, .lap, .place{
+    width: 500px;
+    height: 290px;
+    padding-left: 50px;
+}
+
+.folio-text {
+    padding: 50px 30px 0px 0px;
+    font-size: 1em;
+    color: white;
+   
+}
+.progress-bar {
+    background: -webkit-linear-gradient(left, #1a5f5f 0%, #31d1d1 100%);
+    /* Chrome10-25,Safari5.1-6 */
+  }
+  .labels span {
+    color: #666;
+  }
+  
+  
